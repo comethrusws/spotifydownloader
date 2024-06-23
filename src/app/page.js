@@ -6,9 +6,9 @@ const Home = async () => {
     <main className="w-full h-full flex items-center justify-center">
       <div className="px-5 w-full md:w-[700px] space-y-5">
         <div className="text-text">
-          <h1 className="text-4xl font-bold">Spotify Downloader</h1>
+          <h1 className="text-4xl font-bold">SPOTIFYDOWNLOADER</h1>
           <p className="mt-2">
-            Easily download spotify <b>playlists or tracks</b> by simply pasting
+            Download spotify <b>playlists or tracks</b> by simply pasting
             the URL in the input dialog. This page uses YouTube to find the best
             match download. Please refer to the{" "}
             <Link className="underline" href="/about">
