@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Search from "@/components/Search";
 import Link from "next/link";
 

@@ -5,6 +5,7 @@ import Search from "@/components/Search";
 import TrackInfo from "@/components/TrackInfo";
 import HomeButton from "@/components/buttons/HomeButton";
 import { PlayerProvider } from "@/context/Player";
+import Footer from "@/components/Footer";
 const TrackPage = async ({ params }) => {
   const { id } = params;
 
