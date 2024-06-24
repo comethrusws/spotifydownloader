@@ -20,6 +20,7 @@ const TrackPage = async ({ params }) => {
   return (
     <div className="w-full flex justify-center">
       <main className="md:mt-[100px] w-full md:w-[700px] py-8 px-5 space-y-4">
+        <h1 className="text-4xl font-bold text-white">SPOTIFYDOWNLOADER</h1>
         <div className="flex items-center w-full gap-4">
           <HomeButton />
           <Search />
