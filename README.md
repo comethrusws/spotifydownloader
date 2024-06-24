@@ -27,14 +27,16 @@ Spotify Downloader is a web application that allows users to download their favo
 3. Install Dependencies:
     `npm install`
 4. Create a .env file and add your environment variables:
-    ```SPOTIFY_CLIENT_ID=your_spotify_client_id
+    ```
+    SPOTIFY_CLIENT_ID=your_spotify_client_id
     SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
 ## Usage
 1. Run the development server:
-    `npm run dev`
+    ```
+   npm run dev
 
-2. Open http://localhost:3000 in your browser to see the application.
+3. Open http://localhost:3000 in your browser to see the application.
 
 ## Project Structure
 
