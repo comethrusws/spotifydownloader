@@ -5,7 +5,7 @@ const About = () => {
     <div className="w-full flex justify-center">
       <main className="md:mt-[100px] w-full md:w-[700px] py-8 px-5 space-y-4">
         <div className="text-text md:w-4/5 space-y-2">
-          <h1 className="text-4xl font-bold mb-4">About</h1>
+          <h1 className="text-3xl font-bold mb-4">About</h1>
           <h2 className="text-2xl font-semibold mb-3">
             What does this website do?
           </h2>
