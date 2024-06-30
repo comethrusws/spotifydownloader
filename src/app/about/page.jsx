@@ -12,7 +12,7 @@ const About = () => {
           <p>
             This website allows users to download Spotify playlists and tracks
             easily. When downloading playlist the website returns a ZIP file
-            with all the tracks. Individual tracks are served with metadata.
+            with all the tracks. Individual tracks are served with metadata information.
           </p>
           <h2 className="text-2xl font-semibold mb-3">How do I use it?</h2>
           <p>
