@@ -38,10 +38,3 @@ Spotify Downloader is a web application that allows users to download their favo
 
 3. Open http://localhost:3000 in your browser to see the application.
 
-## Project Structure
-
-    /public: Static assets (images, icons, etc.)
-    /src: Source files
-        /components: React components
-        /pages: Next.js pages
-        /styles: CSS and Tailwind CSS files
